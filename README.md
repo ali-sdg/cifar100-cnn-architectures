@@ -1,4 +1,3 @@
-# Deep Learning Architectures on CIFAR-100
 
 ## Overview
 This repository is a project-based educational endeavor focused on implementing, training, and comparing classic Deep Learning architectures. The primary goal of this project is to gain a hands-on understanding of the evolution of Convolutional Neural Networks (CNNs) by applying them to the CIFAR-100 dataset. 
